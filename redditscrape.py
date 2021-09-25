@@ -58,9 +58,3 @@ for x in hots:
                 file1.close()
 
         
-        # TODO download comments as fake images
-        # Comments = x.comments.list()
-        # for _, comment in zip(range(5), Comments):
-        #     if comment.author not in ["AutoModerator","ApiContraption", None]:
-        #         print(4*'_','\n',comment.author,comment.body, '\n', 3* '-')
-        
